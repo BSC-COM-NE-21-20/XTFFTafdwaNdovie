@@ -11,7 +11,7 @@ class Program
 
         // Read data from "COM314.txt file" 
         //and insert it into the binary tree
-        string filePath = "./COM314.txt";
+       1 // string filePath = "./COM314.txt";
 
         if (File.Exists(filePath))
         {
@@ -40,7 +40,7 @@ class Program
                         int age = int.Parse(parts[2]);
                         string uniqueID = parts[3];
                         newPerson = new Person(firstName, lastName, age, uniqueID);
-                    }
+                    2// }
                 }
             }
         }
@@ -94,5 +94,5 @@ class Program
             //if a person does not exist
             Console.WriteLine("Person with the given Unique ID not found.");
         }
-    }
+    3// }
 }

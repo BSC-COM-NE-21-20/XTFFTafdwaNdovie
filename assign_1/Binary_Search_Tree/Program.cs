@@ -6,6 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        BinaryTreeTestClass.TestingMethod();
+        BinaryTreeTestClass.TestMethod(); 4//ing.....complete
     }
 }
