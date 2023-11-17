@@ -1,0 +1,40 @@
+﻿#SPARK WILSON SPINK 
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assign_1", "assign_1", "{9700918D-E170-46C8-BC6D-D1394F83B9C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary_Search_Tree", "assign_1\Binary_Search_Tree\Binary_Search_Tree.csproj", "{7FD42E1F-EF95-4690-A563-B7171CC793A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assign_2", "assign_2", "{CFD7B66B-C348-4503-938D-45F3A3AB5F6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement_Binary_Search_Tree", "assign_2\Implement_Binary_Search_Tree\Implement_Binary_Search_Tree.csproj", "{4D48FBE9-E5DA-4D7E-8CEE-DE0539E6C1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD42E1F-EF95-4690-A563-B7171CC793A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD42E1F-EF95-4690-A563-B7171CC793A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD42E1F-EF95-4690-A563-B7171CC793A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD42E1F-EF95-4690-A563-B7171CC793A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D48FBE9-E5DA-4D7E-8CEE-DE0539E6C1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D48FBE9-E5DA-4D7E-8CEE-DE0539E6C1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D48FBE9-E5DA-4D7E-8CEE-DE0539E6C1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D48FBE9-E5DA-4D7E-8CEE-DE0539E6C1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7FD42E1F-EF95-4690-A563-B7171CC793A3} = {9700918D-E170-46C8-BC6D-D1394F83B9C2}
+		{4D48FBE9-E5DA-4D7E-8CEE-DE0539E6C1EE} = {CFD7B66B-C348-4503-938D-45F3A3AB5F6F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA0036A-3B45-470D-B950-1DEB65564B69}
+	EndGlobalSection
+EndGlobal
